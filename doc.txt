@@ -16,3 +16,4 @@
 14
 15
 int var = 789654321;
+printf("konec sveta prichazi");
