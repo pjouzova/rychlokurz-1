@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 char* c = "AhOOOOJblabla"
+=======
+char* c = "AhOOOOJ2"
+>>>>>>> new_branch
